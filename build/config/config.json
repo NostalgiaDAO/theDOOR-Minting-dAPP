@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xceAca44343DcD1c18C3E1eDD1203FE54Ed6D6179",
+  "SCAN_LINK": "https://polygonscan.com/token/0xceAca44343DcD1c18C3E1eDD1203FE54Ed6D6179",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Door to Nostalgia",
+  "SYMBOL": "theDOOR",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/door-to-nostalgia",
+  "SHOW_BACKGROUND": true
+}
